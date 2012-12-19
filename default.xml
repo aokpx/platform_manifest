@@ -93,7 +93,7 @@
   <project path="external/fat32lib" name="platform/external/fat32lib" />
   <project path="external/fdlibm" name="platform/external/fdlibm" />
   <project path="external/flac" name="platform/external/flac" />
-  <project path="external/freetype" name="platform/external/freetype" />
+  <project path="external/freetype" name="aokpx/platform_external_freetype" remote="aokp" revision="jb-mr1" />
   <project path="external/fsck_msdos" name="platform/external/fsck_msdos" />
   <project path="external/ganymed-ssh2" name="platform/external/ganymed-ssh2" />
   <project path="external/gcc-demangle" name="platform/external/gcc-demangle" />
@@ -183,7 +183,7 @@
   <project path="external/smali" name="platform/external/smali" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/speex" name="platform/external/speex" />
-  <project path="external/sqlite" name="aokpx/platform_external_sqlite" remote="aokp" revision="jb-mr1" />
+  <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
   <project path="external/srtp" name="platform/external/srtp" />
   <project path="external/stlport" name="platform/external/stlport" />
