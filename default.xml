@@ -256,7 +256,7 @@
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
   <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
   <project path="kernel/samsung/tuna" name="existz/android_kernel_samsung_tuna" remote="aokp" revision="android-omap-tuna-3.0" />
-  <project path="libcore" name="platform/libcore" />
+  <project path="libcore" name="aokpx/platform_libcore" remote="aokp" revision="jb-mr1" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
