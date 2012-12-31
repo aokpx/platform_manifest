@@ -140,7 +140,7 @@
   <project path="external/libusb" name="platform/external/libusb" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
-  <project path="external/libvpx" name="platform/external/libvpx" />
+  <project path="external/libvpx" name="aokpx/platform_external_libvpx" remote="aokp" revision="jb-mr1" />
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
