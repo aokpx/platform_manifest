@@ -25,7 +25,7 @@
   <project path="bionic" name="aokpx/platform_bionic" remote="aokp" revision="jb-mr1" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
-  <project path="bootable/recovery" name="platform/bootable/recovery" />
+  <project path="bootable/recovery" name="android_bootable_recovery" remote="cm" revision="cm-10.1" />
   <project path="cts" name="platform/cts" />
   <project path="dalvik" name="aokpx/platform_dalvik" remote="aokp" revision="jb-mr1" />
   <project path="development" name="platform/development" />
@@ -41,7 +41,6 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" groups="device" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/lge/mako" name="AOKP/device_lge_mako" remote="aokp" revision="jb-mr1" />
-  <project path="device/lge/mako-kernel" name="device/lge/mako-kernel" groups="device" />
   <project path="device/sample" name="device/sample" />
   <project path="device/samsung/maguro" name="AOKP/device_samsung_maguro" remote="aokp" revision="jb-mr1" />
   <project path="device/samsung/manta" name="device/samsung/manta" groups="device" />
@@ -205,8 +204,8 @@
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
-  <project path="external/yaffs2" name="platform/external/yaffs2" />
-  <project path="external/zlib" name="platform/external/zlib" />
+  <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="cm-10.1" />
+  <project path="external/zlib" name="android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="aokpx/platform_frameworks_av" remote="aokp" revision="jb-mr1" />
   <project path="frameworks/base" name="aokpx/platform_frameworks_base" remote="aokp" revision="jb-mr1" />
@@ -275,7 +274,7 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
+  <project path="packages/apps/Launcher2" name="AOKP/packages_apps_Launcher2" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
   <project path="packages/apps/Mms" name="AOKP/packages_apps_Mms" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
