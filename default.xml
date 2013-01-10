@@ -165,7 +165,7 @@
   <project path="external/openfst" name="platform/external/openfst" />
   <project path="external/openssh" name="aokpx/platform_external_openssh" remote="aokp" revision="jb-mr1" />
   <project path="external/openssl" name="aokpx/platform_external_openssl" remote="aokp" revision="jb-mr1" />
-  <project path="external/oprofile" name="platform/external/oprofile" />
+  <project path="external/oprofile" name="aokpx/platform_external_oprofile" remote="aokp" revision="jb-mr1" />
   <project path="external/ping" name="aokpx/platform_external_ping" remote="aokp" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
   <project path="external/ppp" name="aokpx/platform_external_ppp" remote="aokp" revision="jb-mr1" />
