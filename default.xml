@@ -176,7 +176,7 @@
   <project path="external/libusb" name="platform/external/libusb" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
   <project path="external/libvorbis" name="platform/external/libvorbis" />
-  <project path="external/libvpx" name="aokpx/platform_external_libvpx" remote="aokp" revision="jb-mr1" />
+  <project path="external/libvpx" name="platform/external/libvpx" revision="jb-mr1-dev-plus-aosp" />
   <project path="external/libxml2" name="platform/external/libxml2" />
   <project path="external/libxslt" name="platform/external/libxslt" />
   <project path="external/libyuv" name="platform/external/libyuv" />
@@ -207,7 +207,7 @@
   <project path="external/oprofile" name="aokpx/platform_external_oprofile" remote="aokp" revision="jb-mr1" />
   <project path="external/ping" name="aokpx/platform_external_ping" remote="aokp" revision="jb-mr1" />
   <project path="external/ping6" name="platform/external/ping6" />
-  <project path="external/ppp" name="aokpx/platform_external_ppp" remote="aokp" revision="jb-mr1" />
+  <project path="external/ppp" name="platform/external/ppp" revision="jb-mr1-dev-plus-aosp" />
   <project path="external/proguard" name="platform/external/proguard" />
   <project path="external/protobuf" name="platform/external/protobuf" />
   <project path="external/qemu" name="platform/external/qemu" />
