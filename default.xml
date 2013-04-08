@@ -331,7 +331,7 @@
   <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PerformanceControl" name="AOKP/packages_apps_PerformanceControl" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/PermissionsManager" name="aokpx/packages_apps_PermissionsManager" remote="aokp" revision="jb-mr1" />
-  <project path="packages/apps/Phone" name="AOKP/packages_apps_Phone" remote="aokp" revision="jb-mr1" />
+  <project path="packages/apps/Phone" name="aokpx/platform_packages_apps_Phone" remote="aokp" revision="jb-mr1" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/ROMControl" name="aokpx/packages_apps_ROMControl" remote="aokp" revision="jb-mr1" />
