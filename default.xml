@@ -272,7 +272,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/xmp_toolkit" name="platform/external/xmp_toolkit" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="cm" revision="cm-10.1" />
-  <project path="external/zlib" name="aokpx/platform_external_zlib" remote="aokp" revision="jb-mr1" />
+  <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="cm" revision="cm-10.1" />
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="aokpx/platform_frameworks_av" remote="aokp" revision="jb-mr1" />
   <project path="frameworks/base" name="aokpx/platform_frameworks_base" remote="aokp" revision="jb-mr1" />
