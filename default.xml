@@ -362,9 +362,9 @@
   <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" />
   <project path="packages/apps/Contacts" name="aokpx/platform_packages_apps_Contacts" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
-  <project path="packages/apps/DeskClock" name="AOKP/packages_apps_DeskClock" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/DeskClock" name="BrewCrewFoo/packages_apps_DeskClock" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" />
-  <project path="packages/apps/Email" name="AOKP/packages_apps_Email" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/Email" name="BrewCrewFoo/packages_apps_Email" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
   <project path="packages/apps/FMRadio" name="CyanogenMod/android_packages_apps_FMRadio" remote="cm" revision="cm-10.2" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
@@ -377,16 +377,16 @@
   <project path="packages/apps/Mms" name="aokpx/platform_packages_apps_Mms" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project path="packages/apps/Nfc" name="AOKP/packages_apps_Nfc" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/Nfc" name="BrewCrewFoo/packages_apps_Nfc" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="AOKP/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/PackageInstaller" name="BrewCrewFoo/packages_apps_PackageInstaller" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/PermissionsManager" name="aokpx/platform_packages_apps_PermissionsManager" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Phone" name="aokpx/platform_packages_apps_Phone" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/ROMControl" name="aokpx/platform_packages_apps_ROMControl" remote="aokp" revision="jb-mr2" />
-  <project path="packages/apps/QuickSearchBox" name="AOKP/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr2" />
+  <project path="packages/apps/QuickSearchBox" name="BrewCrewFoo/packages_apps_QuickSearchBox" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/Settings" name="aokpx/platform_packages_apps_Settings" remote="aokp" revision="jb-mr2" />
   <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
@@ -403,10 +403,10 @@
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
-  <project path="packages/providers/ContactsProvider" name="AOKP/packages_providers_ContactsProvider" remote="aokp" revision="jb-mr2" />
-  <project path="packages/providers/DownloadProvider" name="AOKP/packages_providers_DownloadProvider" remote="aokp" revision="jb-mr2" />
+  <project path="packages/providers/ContactsProvider" name="BrewCrewFoo/packages_providers_ContactsProvider" remote="aokp" revision="jb-mr2" />
+  <project path="packages/providers/DownloadProvider" name="BrewCrewFoo/packages_providers_DownloadProvider" remote="aokp" revision="jb-mr2" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
-  <project path="packages/providers/MediaProvider" name="AOKP/packages_providers_MediaProvider" remote="aokp" revision="jb-mr2" />
+  <project path="packages/providers/MediaProvider" name="BrewCrewFoo/packages_providers_MediaProvider" remote="aokp" revision="jb-mr2" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="aokpx/platform_packages_providers_TelephonyProvider" remote="aokp" revision="jb-mr2" />
   <project path="packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
@@ -464,7 +464,7 @@
   <project path="system/media" name="platform/system/media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="system/security" name="aokpx/platform_system_security" remote="aokp" revision="jb-mr2" groups="pdk" />
-  <project path="system/vold" name="AOKP/system_vold" remote="aokp" revision="jb-mr2" groups="pdk" />
+  <project path="system/vold" name="BrewCrewFoo/system_vold" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
   <project path="tools/base" name="platform/tools/base" groups="notdefault,tools" />
