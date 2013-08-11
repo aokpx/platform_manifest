@@ -247,7 +247,7 @@
   <project path="external/openssl" name="aokpx/platform_external_openssl" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="external/oprofile" name="aokpx/platform_external_oprofile" remote="aokp" revision="jb-mr2" />
   <project path="external/ping" name="aokpx/platform_external_ping" remote="aokp" revision="jb-mr2" />
-  <project path="external/ping6" name="platform/external/ping6" />
+  <project path="external/ping6" name="aokpx/platform_external_ping6" remote="aokp" revision="jb-mr2" />
   <project path="external/ppp" name="platform/external/ppp" />
   <project path="external/proguard" name="platform/external/proguard" groups="pdk-java" />
   <project path="external/protobuf" name="platform/external/protobuf" groups="pdk" />
