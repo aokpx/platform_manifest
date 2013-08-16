@@ -219,7 +219,7 @@
   <project path="external/libyuv" name="platform/external/libyuv" groups="libyuv" />
   <project path="external/linux-tools-perf" name="aokpx/platform_external_linux-tools-perf" remote="aokp" revision="jb-mr2" />
   <project path="external/littlemock" name="platform/external/littlemock" />
-  <project path="external/llvm" name="aokpx/platform_external_llvm" remote="aokp" revision="jb-mr2" groups="pdk" />
+  <project path="external/llvm" name="platform/external/llvm" groups="pdk" />
   <project path="external/koush/Superuser" name="BrewCrewFoo/external_koush_Superuser" remote="aokp" revision="jb-mr2" />
   <project path="external/koush/Widgets" name="koush/Widgets" remote="cm" revision="master" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" />
@@ -295,7 +295,7 @@
   <project path="external/zxing" name="platform/external/zxing" />
   <project path="frameworks/av" name="aokpx/platform_frameworks_av" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="frameworks/base" name="aokpx/platform_frameworks_base" remote="aokp" revision="jb-mr2" />
-  <project path="frameworks/compile/libbcc" name="aokpx/platform_frameworks_compile_libbcc" remote="aokp" revision="jb-mr2" groups="pdk" />
+  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="aokpx/platform_frameworks_compile_mclinker" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="frameworks/compile/slang" name="aokpx/platform_frameworks_compile_slang" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="frameworks/ex" name="aokpx/platform_frameworks_ex" remote="aokp" revision="jb-mr2" />
