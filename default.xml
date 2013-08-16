@@ -208,7 +208,7 @@
   <project path="external/libpng" name="aokpx/platform_external_libpng" remote="aokp" revision="jb-mr2" groups="pdk" />
   <project path="external/libppp" name="platform/external/libppp" />
   <project path="external/libselinux" name="platform/external/libselinux" groups="pdk" />
-  <project path="external/libsepol" name="platform/external/libsepol" groups="pdk" />
+  <project path="external/libsepol" name="CyanogenMod/android_external_libsepol" remote="cm" revision="cm-10.2" groups="pdk" />
   <project path="external/libusb" name="platform/external/libusb" />
   <project path="external/libusb_aah" name="platform/external/libusb_aah" groups="libusb_aah" />
   <project path="external/libusb-compat" name="platform/external/libusb-compat" />
@@ -220,7 +220,7 @@
   <project path="external/linux-tools-perf" name="aokpx/platform_external_linux-tools-perf" remote="aokp" revision="jb-mr2" />
   <project path="external/littlemock" name="platform/external/littlemock" />
   <project path="external/llvm" name="aokpx/platform_external_llvm" remote="aokp" revision="jb-mr2" groups="pdk" />
-  <project path="external/koush/Superuser" name="AOKP/external_koush_Superuser" remote="aokp" revision="master" />
+  <project path="external/koush/Superuser" name="BrewCrewFoo/external_koush_Superuser" remote="aokp" revision="jb-mr2" />
   <project path="external/koush/Widgets" name="koush/Widgets" remote="cm" revision="master" />
   <project path="external/marisa-trie" name="platform/external/marisa-trie" />
   <project path="external/markdown" name="platform/external/markdown" />
